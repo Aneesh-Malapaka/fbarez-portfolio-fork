@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fazl Barez"
+  name             : #"Fazl Barez"
   avatar           : "fb2017.jpg"
   bio              : "AI safety and Interpretability resercher. Effective altruist"
   location         : "Edinburgh, U.K."
