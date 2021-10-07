@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 
-  - title: "Papers I Read"
-    url: /papersiread/
+  # - title: "Papers I Read"
+  #   url: /papersiread/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
   # - title: "Portfolio"
   #   url: /portfolio/
