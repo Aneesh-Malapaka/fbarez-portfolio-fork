@@ -7,10 +7,11 @@ author_profile: true
 #  - /about/
 #  - /about.html
 ---
-Hi! my name is Fazl. I am a PhD researcher at [Edinburgh Centre For Robotics](https://www.edinburgh-robotics.org/). Prior to this, I worked as a data scientist at [RBS](https://www.rbs.co.uk) and [The DataLab](https://thedatalab.com). 
+Hi! my name is Fazl. I am a PhD researcher at Edinburgh Centre For Robotics and visiting PhD Scholar at University of Oxford. I am also an reserach affiliate at [CESR at the University of Cambridge](https://www.cser.ac.uk/team/fazl-barez/) and [Future of Life Institue](https://futureoflife.org/person/fazl-barez/). Previously, I worked as a data scientist at RBS and The Data Lab Inovation Centre. 
 <br />
 Broadly, I am interested in Applications of Safety and Interpretability in Machine Learning. I am also interested in AGI safety and governance. 
 
-From Sep 21 to Apr 22, I was an Applied Machine Learning Science Intern at Amazon working on interpretability with [Dr. John Pate](https://scholar.google.com/citations?hl=en&user=l_PGy9MAAAAJ&view_op=list_works&sortby=pubdate).<br /> 
-From July 20 to Feb 21, I was a research intern at Huawei Research Labs working on spatial recommender systems  with [Dr. Giorgos Stoilos](https://scholar.google.com/citations?hl=en&user=xpZ5n80AAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Jeff Pan](http://knowledge-representation.org/j.z.pan/).
+From Sep 21 to Apr 22, I was an Applied Science Intern at Amazon working on interpretability and from July 20 to Feb 21, I was a research intern at Huawei Research Labs working on spatial recommender systems.
 
+<br/> 
+Outside research, I co-founded [AI Safety Hub Edinburgh](https://aished.org) and help run [AI Safety Hub](https://www.aisafetyhub.org) and [Apart Research](https://apartresearch.com). Previously, I Co-Founded [EA Edinburgh](http://eaedinburgh.com) and now act as a senior advisor. 
