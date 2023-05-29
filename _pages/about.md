@@ -7,7 +7,7 @@ author_profile: true
 #  - /about/
 #  - /about.html
 ---
-Hi! my name is Fazl. I am a PhD researcher at Edinburgh Centre For Robotics and visiting PhD Scholar at University of Oxford. I am also a research affiliate at [CESR at University of Cambridge](https://www.cser.ac.uk/team/fazl-barez/) and [Future of Life Institue](https://futureoflife.org/person/fazl-barez/). Previously, I worked as a data scientist at RBS and The Data Lab Inovation Centre.
+Hi! my name is Fazl. I am a PhD researcher at Edinburgh Centre For Robotics and visiting PhD Scholar at University of Oxford. I am also a research affiliate at [CSER at University of Cambridge](https://www.cser.ac.uk/team/fazl-barez/) and [Future of Life Institue](https://futureoflife.org/person/fazl-barez/). Previously, I worked as a data scientist at RBS and The Data Lab Inovation Centre.
 
 <br />
 Broadly, I am interested in Applications of Safety and Interpretability in Machine Learning. I am also interested in AGI safety and governance. 
