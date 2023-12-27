@@ -46,7 +46,7 @@ group :jekyll_plugins do
     # gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "wdm", "~> 0.1.0" if Gem.win_platform?
+    # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 end
 group :other_plugins do
     gem 'feedjira'
