@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+
   specs:
     activesupport (7.1.2)
       base64
